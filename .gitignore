@@ -1,0 +1,6 @@
+deployment/
+datasets/VOCdevkit_test
+datasets/VOCdevkit_train
+datasets/VOC_SSD
+trained_model
+.idea/
